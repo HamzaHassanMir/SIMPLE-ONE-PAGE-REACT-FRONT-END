@@ -19,7 +19,7 @@ const Services = () => {
         <img
           src="https://images.unsplash.com/photo-1551434678-e076c223a692"
           alt="services"
-          className="w-full md:w-auto h-[300px] md:h-[400px] object-cover rounded-xl shadow-lg"
+          className="w-full xl:w-auto h-[300px] md:h-[400px] object-cover rounded-xl shadow-lg"
         />
       </div>
 
@@ -41,3 +41,4 @@ const Services = () => {
 };
 
 export default Services;
+
